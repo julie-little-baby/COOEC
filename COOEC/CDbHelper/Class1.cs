@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CDbHelper
+namespace COOEC.CDbHelper
 {
     public class Class1
     {
